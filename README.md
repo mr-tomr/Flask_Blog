@@ -9,12 +9,12 @@ It is based upon the video series by Corey Schafer on YouTube https://www.youtub
 
 Steps to upload changes to Git
 
-git init
-git add README.md 
-git add flaskblog.py 
-git add .
-git -m "first commit"
-git commit -m "first commit"
-git branch -M main
-git remote add origin git@github.com:mr-tomr/REPOSITORYNAME.git
-git push -u origin main
+git init </div>
+git add README.md </div>
+git add flaskblog.py </div>
+git add .</div>
+git -m "first commit"</div>
+git commit -m "first commit"</div>
+git branch -M main</div>
+git remote add origin git@github.com:mr-tomr/REPOSITORYNAME.git </div>
+git push -u origin main</div>
